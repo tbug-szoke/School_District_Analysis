@@ -67,11 +67,11 @@ After making these changes and a few related modifications to calculate score pe
 
   The original analysis showed:
   
-  ![Original Scores by Spending](Resources/Original_By_Spending.png)
+  ![Original Scores by Spending](Resources/Original_by_Spending.png)
   
   The revised analysis shows:
 
-  ![Revised Scores by Spending](Resources/Revised_By_Spending.png)
+  ![Revised Scores by Spending](Resources/Revised_by_Spending.png)
 
   The Thomas High School spending per capita is $638, so the revised results are reported in the $631-645 bin.  We see that the exclusion of the ninth graders' scores had no impact on the overall reported results.
 
@@ -79,11 +79,11 @@ After making these changes and a few related modifications to calculate score pe
 
   The original analysis showed:
   
-  ![Original Scores by School Size](Resources/Original_By_School_Size.png)
+  ![Original Scores by School Size](Resources/Original_by_School_Size.png)
   
   The revised analysis shows:
 
-  ![Revised Scores by School Size](Resources/Revised_By_School_Size.png)
+  ![Revised Scores by School Size](Resources/Revised_by_School_Size.png)
 
   The Thomas High School size is 1,625 students, so the revised results are reported in the Medium schools bin.  We again see that the exclusion of the ninth graders' scores had no impact on the overall reported results.
 
@@ -91,11 +91,11 @@ After making these changes and a few related modifications to calculate score pe
 
   The original analysis showed:
   
-  ![Original Scores by School Type](Resources/Original_By_School_Type.png)
+  ![Original Scores by School Type](Resources/Original_by_School_Type.png)
   
   The revised analysis shows:
 
-  ![Revised Scores by School Type](Resources/Revised_By_School_Type.png)
+  ![Revised Scores by School Type](Resources/Revised_by_School_Type.png)
 
   The Thomas High School is a Charter school.  We again see that the exclusion of the ninth graders' scores had no impact on the overall reported results.
 
