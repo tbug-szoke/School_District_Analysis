@@ -10,11 +10,14 @@ TO DO: Describe how THS 9th grade data was found and replaced.
 
 After making these changes, we are able to compare the revised analysis to the original analysis and identify the key impacts:
 - District Summary
+  
   The original analysis showed:
-  ![Original Distric Summary]("Resources/Original_District_Summary.png")
+  
+  ![Original Distric Summary](Resources/Original_District_Summary.png)
   
   The revised analysis shows:
-  ![Revised District Summary]("Resources/Revised_District_Summary.png")
+  
+  ![Revised District Summary](Resources/Revised_District_Summary.png)
   
 - School Summary
 - Math Scores by Grade
