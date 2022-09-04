@@ -17,7 +17,7 @@ After making these changes, we are able to compare the revised analysis to the o
   
   The revised analysis shows:
   
-  ![Revised District Summary](Resources/Revised_District_Summary.png)
+
   
 - School Summary
 - Math Scores by Grade
